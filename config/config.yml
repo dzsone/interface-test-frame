@@ -1,0 +1,17 @@
+log:
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+postgresql:
+    host: 123.123.123.123
+    port: 1234
+    user: postgres
+    password: postgres
+    database: postgres
+
+
+Http:
+  url: http://test.com
+  port: 8080

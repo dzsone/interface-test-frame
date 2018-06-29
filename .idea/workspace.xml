@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/testCase/test_base.py" line="541" mnemonic="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0df52eab-669e-46de-b2d5-c92fad397313" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/common/Log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/configEmail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/configHttp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/connDB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/readConfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/runAll.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/interfaceTest$test_check.coverage" NAME="test_check Coverage Results" MODIFIED="1527575767988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/interfaceTest$n.coverage" NAME="n Coverage Results" MODIFIED="1527561781265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/interfaceTest$excel_reader.coverage" NAME="excel_reader Coverage Results" MODIFIED="1527561980565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/interfaceTest$configHttp.coverage" NAME="configHttp Coverage Results" MODIFIED="1526284727763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/interfaceTest$atest.coverage" NAME="atest Coverage Results" MODIFIED="1530150921564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/interfaceTest$test_base.coverage" NAME="test_base Coverage Results" MODIFIED="1526892082471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/interfaceTest$py_test_for_test_test_APPinterface.coverage" NAME="py.test for test_test.APPinterface Coverage Results" MODIFIED="1529926859597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/interfaceTest$book.coverage" NAME="book Coverage Results" MODIFIED="1527502202382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xlrd" />
+    <SUITE FILE_PATH="coverage/interfaceTest$run.coverage" NAME="run Coverage Results" MODIFIED="1530238563816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/interfaceTest$test.coverage" NAME="test Coverage Results" MODIFIED="1526885871537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/interfaceTest$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1530089708605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/interfaceTest$test_APP.coverage" NAME="test_APP Coverage Results" MODIFIED="1527056700662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_check.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_check.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2477">
+              <caret line="395" column="15" selection-start-line="395" selection-start-column="13" selection-end-line="395" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+                <marker date="1530091531656" expanded="true" signature="664:769" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="3148:3253" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="3317:3440" ph="SELECT id,ar... tbl_area" />
+                <marker date="1530091531656" expanded="true" signature="3564:3632" ph="SELECT area_... tbl_area_type" />
+                <marker date="1530091531656" expanded="true" signature="5247:5352" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="5413:5459" ph="SELECT id,ar... tbl_area" />
+                <marker date="1530091531656" expanded="true" signature="6921:7026" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="8257:8362" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="9587:9692" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="10818:10923" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="12153:12259" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="13484:13591" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="14829:14937" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="16168:16276" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="17554:17688" ph="SELECT ref_c... tbl_cp_prop" />
+                <marker date="1530091531656" expanded="true" signature="19030:19135" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530091531656" expanded="true" signature="20390:20497" ph="SELECT ref_a... tbl_user_task_brief" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="884" column="17" lean-forward="true" selection-start-line="855" selection-start-column="4" selection-end-line="884" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+                <marker date="1530171775567" expanded="true" signature="14362:14493" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530171775567" expanded="true" signature="20522:20601" ph="SELECT ref_a... tbl_user_task_brief" />
+                <marker date="1530171775567" expanded="true" signature="22683:22790" ph="SELECT struc... tbl_structure" />
+                <marker date="1530171775567" expanded="true" signature="26414:26504" ph="SELECT area_... tbl_area_type" />
+                <marker date="1530171775567" expanded="true" signature="28802:28892" ph="SELECT area_... tbl_area_type" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_APP.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_APP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="666" column="46" lean-forward="true" selection-start-line="666" selection-start-column="46" selection-end-line="666" selection-end-column="46" />
+              <folding>
+                <marker date="1530238632467" expanded="true" signature="3555:3609" ph="Select user_... tbl_user" />
+                <marker date="1530238632467" expanded="true" signature="34668:34723" ph="SELECT area_... tbl_area" />
+                <marker date="1530238632467" expanded="true" signature="34787:34849" ph="SELECT longi... tbl_area" />
+                <marker date="1530238632467" expanded="true" signature="36804:36859" ph="SELECT area_... tbl_area" />
+                <marker date="1530238632467" expanded="true" signature="38669:38724" ph="SELECT area_... tbl_area" />
+                <marker date="1530238632467" expanded="true" signature="38788:38844" ph="SELECT point... tbl_cp" />
+                <marker date="1530238632467" expanded="true" signature="40756:40811" ph="SELECT area_... tbl_area" />
+                <marker date="1530238632467" expanded="true" signature="42629:42684" ph="SELECT area_... tbl_area" />
+                <marker date="1530238632467" expanded="true" signature="42748:42804" ph="SELECT point... tbl_cp" />
+                <marker date="1530238632467" expanded="true" signature="42879:42943" ph="Select ref_c... tbl_cp_prop" />
+                <marker date="1530238632467" expanded="true" signature="44952:45007" ph="SELECT area_... tbl_area" />
+                <marker date="1530238632467" expanded="true" signature="46805:46860" ph="SELECT area_... tbl_area" />
+                <marker date="1530238632467" expanded="true" signature="50262:50368" ph="SELECT ref_a... tbl_user_task_brief" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="btest_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/btest_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="atest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/atest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="48" selection-start-line="48" selection-end-line="48" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>true</find>
+      <find>分数</find>
+      <find>test_2_get_user_scan_mark</find>
+      <find>test_exam_detail_mark</find>
+      <find>test_get_user_detail</find>
+      <find>test_get_verification_code</find>
+      <find>test_reset_password</find>
+      <find>test_report_wrong_area</find>
+      <find>test_add_park</find>
+      <find>获取用户扫街类型</find>
+      <find>test_35_app_logout</find>
+      <find>test_019_add_wrong_structure</find>
+      <find>上报任务包错误</find>
+      <find>更新采集员位置任务经纬度</find>
+      <find>sql</find>
+      <find>解冻</find>
+      <find>s.</find>
+      <find>保存用户成绩</find>
+      <find>获取商圈详情</find>
+      <find>获取任务质检详情</find>
+      <find>获取场景类型扩展属性</find>
+      <find>删除任务包</find>
+      <find>删除角色</find>
+      <find>test_c_update_basic_info</find>
+      <find>提交任务</find>
+      <find>商场品类搜索</find>
+      <find>test_025_get_verification_code</find>
+      <find>assertF</find>
+      <find>结算</find>
+      <find>获取验证码</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BaseInterface</replace>
+      <replace>r.text</replace>
+      <replace>self.assertEqual(200, r.status_code)</replace>
+      <replace>self.assertEqual(0, rq['retCode'])</replace>
+      <replace>self.assertEqual(u'OK', rq['msg'])</replace>
+      <replace>except AssertionError as e:</replace>
+      <replace>logger.error(r.text)</replace>
+      <replace>Exception</replace>
+      <replace>r.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/comm/config.py" />
+        <option value="$PROJECT_DIR$/comm/mail.py" />
+        <option value="$PROJECT_DIR$/comm/connDB.py" />
+        <option value="$PROJECT_DIR$/comm/configHttp.py" />
+        <option value="$PROJECT_DIR$/comm/file_reader.py" />
+        <option value="$PROJECT_DIR$/log/2018-05-21-11-49-43_interfaceTest.log" />
+        <option value="$PROJECT_DIR$/testCase/tes_base.py" />
+        <option value="$PROJECT_DIR$/comm/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/data/n.py" />
+        <option value="$PROJECT_DIR$/comm/create_excel.py" />
+        <option value="$PROJECT_DIR$/config/config.yml" />
+        <option value="$PROJECT_DIR$/testCase/test.py" />
+        <option value="$PROJECT_DIR$/comm/Log.py" />
+        <option value="$PROJECT_DIR$/testCase/test_check.py" />
+        <option value="$PROJECT_DIR$/testCase/test_test.py" />
+        <option value="$PROJECT_DIR$/testCase/atest.py" />
+        <option value="$PROJECT_DIR$/comm/excel_reader.py" />
+        <option value="$PROJECT_DIR$/testCase/test_base.py" />
+        <option value="$PROJECT_DIR$/testCase/btest_test.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/testCase/test_APP.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="comm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="atest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCase/atest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCase/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCase/test_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="interfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test for test_test.APPinterface" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="interfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_test.APPinterface&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.test_check" />
+      <item itemvalue="Python tests.py.test for test_test.APPinterface" />
+      <item itemvalue="Python.atest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.atest" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python tests.py.test for test_test.APPinterface" />
+        <item itemvalue="Python.test_check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0df52eab-669e-46de-b2d5-c92fad397313" name="Default" comment="" />
+      <created>1526281453394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526281453394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_test_test_APPinterface - 2018.06.25 at 19h 41m 02s.xml">
+      <configuration name="py.test for test_test.APPinterface" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50053304" side_tool="true" weight="0.40086207" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3286638" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.3297414" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3297414" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1924307" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="1" weight="0.3296875" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49946696" weight="0.40086207" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="0" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="45" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="headers" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-10_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-29_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-30_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-40_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-48_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-15-18_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-26-16-47_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-09-56_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="341" column="114" lean-forward="true" selection-start-line="341" selection-start-column="114" selection-end-line="341" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="56" column="34" lean-forward="true" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding>
+            <element signature="e#115#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#72#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-53_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="126" selection-start-line="2" selection-start-column="126" selection-end-line="2" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-56_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-57_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-58_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-16-59_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-02_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-14_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="83" lean-forward="true" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-27_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-25_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="51" column="55" lean-forward="true" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-30_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-33_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7349" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-41_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-48_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4024" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-53_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-17-58_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-20-02_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3521">
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-20-05_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-27-20-12_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-28-09-42_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/atest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="48" selection-start-line="48" selection-end-line="48" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/excel_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2477">
+          <caret line="395" column="15" selection-start-line="395" selection-start-column="13" selection-end-line="395" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1530091531656" expanded="true" signature="664:769" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="3148:3253" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="3317:3440" ph="SELECT id,ar... tbl_area" />
+            <marker date="1530091531656" expanded="true" signature="3564:3632" ph="SELECT area_... tbl_area_type" />
+            <marker date="1530091531656" expanded="true" signature="5247:5352" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="5413:5459" ph="SELECT id,ar... tbl_area" />
+            <marker date="1530091531656" expanded="true" signature="6921:7026" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="8257:8362" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="9587:9692" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="10818:10923" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="12153:12259" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="13484:13591" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="14829:14937" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="16168:16276" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="17554:17688" ph="SELECT ref_c... tbl_cp_prop" />
+            <marker date="1530091531656" expanded="true" signature="19030:19135" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530091531656" expanded="true" signature="20390:20497" ph="SELECT ref_a... tbl_user_task_brief" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-28-11-34_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="534" column="170" selection-start-line="534" selection-start-column="170" selection-end-line="534" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-28-15-39_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="539" column="77" selection-start-line="539" selection-start-column="77" selection-end-line="539" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-28-15-40_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="170" column="86" lean-forward="true" selection-start-line="170" selection-start-column="86" selection-end-line="170" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="884" column="17" lean-forward="true" selection-start-line="855" selection-start-column="4" selection-end-line="884" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1530171775567" expanded="true" signature="14362:14493" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530171775567" expanded="true" signature="20522:20601" ph="SELECT ref_a... tbl_user_task_brief" />
+            <marker date="1530171775567" expanded="true" signature="22683:22790" ph="SELECT struc... tbl_structure" />
+            <marker date="1530171775567" expanded="true" signature="26414:26504" ph="SELECT area_... tbl_area_type" />
+            <marker date="1530171775567" expanded="true" signature="28802:28892" ph="SELECT area_... tbl_area_type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-28-15-43_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-28-15-48_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-28-16-45_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-28-16-51_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="249" column="68" selection-start-line="249" selection-start-column="63" selection-end-line="249" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-29-09-28_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-29-09-43_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-29-09-45_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-29-09-46_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-29-09-56_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="80" lean-forward="true" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-06-29-10-11_JMTool_interfaceTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="249" column="68" selection-start-line="249" selection-start-column="63" selection-end-line="249" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/btest_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_APP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="666" column="46" lean-forward="true" selection-start-line="666" selection-start-column="46" selection-end-line="666" selection-end-column="46" />
+          <folding>
+            <marker date="1530238632467" expanded="true" signature="3555:3609" ph="Select user_... tbl_user" />
+            <marker date="1530238632467" expanded="true" signature="34668:34723" ph="SELECT area_... tbl_area" />
+            <marker date="1530238632467" expanded="true" signature="34787:34849" ph="SELECT longi... tbl_area" />
+            <marker date="1530238632467" expanded="true" signature="36804:36859" ph="SELECT area_... tbl_area" />
+            <marker date="1530238632467" expanded="true" signature="38669:38724" ph="SELECT area_... tbl_area" />
+            <marker date="1530238632467" expanded="true" signature="38788:38844" ph="SELECT point... tbl_cp" />
+            <marker date="1530238632467" expanded="true" signature="40756:40811" ph="SELECT area_... tbl_area" />
+            <marker date="1530238632467" expanded="true" signature="42629:42684" ph="SELECT area_... tbl_area" />
+            <marker date="1530238632467" expanded="true" signature="42748:42804" ph="SELECT point... tbl_cp" />
+            <marker date="1530238632467" expanded="true" signature="42879:42943" ph="Select ref_c... tbl_cp_prop" />
+            <marker date="1530238632467" expanded="true" signature="44952:45007" ph="SELECT area_... tbl_area" />
+            <marker date="1530238632467" expanded="true" signature="46805:46860" ph="SELECT area_... tbl_area" />
+            <marker date="1530238632467" expanded="true" signature="50262:50368" ph="SELECT ref_a... tbl_user_task_brief" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
