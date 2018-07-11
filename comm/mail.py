@@ -71,6 +71,6 @@ class Email:
             else:
                 smtp_server.sendmail(self.sender, self.receiver.split(';'), self.msg.as_string())  # send mail
             finally:
-                smtp_server.quit()  # 断开连接
+                smtp_server.quit()  # Disconnect
                 logger.info('Sending message "{0}" succeeded! To: {1}. If you do not receive the email, please check the bin,'
                             'At the same time check whether the recipient address is correct'.format(self.title, self.receiver))
