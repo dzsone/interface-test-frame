@@ -8,11 +8,11 @@ class PostgreDB(object):  # Mysql can refer to this class, it's basically no cha
 
     def __init__(self):
         c = Config().get('postgresql')
-        self.host = c.get('host') if c and c.get('host') else '121.196.200.254'
+        self.host = c.get('host') if c and c.get('host') else '192.168.0.100'
         self.port = c.get('port') if c and c.get('port') else '5432'
         self.user = c.get('user') if c and c.get('user') else 'postgres'
         self.password = c.get('password') if c and c.get('password') else 'postgres'
-        self.datebase = c.get('database') if c and c.get('datebase') else 'jmtool0705'
+        self.datebase = c.get('database') if c and c.get('datebase') else 'testdb'
 
         super(PostgreDB, self).__init__()
         self.conn = psycopg2.connect(database=self.datebase, user=self.user, password=self.password,
