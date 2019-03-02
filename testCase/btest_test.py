@@ -27,7 +27,7 @@ class APPinterface(unittest.TestCase):
         rq = json.loads(r.text)
         logger.info(rq)
         try:
-            self.assertEqual(0, rq['retCode'])
+            self.assertEqual(0, rq['status'])
             self.assertEqual(u'OK', rq['msg'])
             self.assertEqual(200, r.status_code)
             token = rq['data']['token']
