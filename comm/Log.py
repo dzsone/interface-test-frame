@@ -1,7 +1,7 @@
 """
 Log class. By reading the configuration file, define the log level, log file name, log format, and so on.
 Generally import logger directly
-from utils.log import logger
+from comm.Log import logger
 logger.info('test log')
 """
 import os,time, functools
@@ -11,11 +11,11 @@ from comm.config import LOG_PATH, Config
 
 
 class Logger(object):
-    def __init__(self, logger_name='JMTool Autotest'):
+    def __init__(self, logger_name='program name Autotest'):
         self.logger = logging.getLogger(logger_name)
         logging.root.setLevel(logging.NOTSET)
         c = Config().get('log')
-        self.log_file_name = time.strftime("%Y-%m-%d-%H-%M") + '_JMTool_interfaceTest.log'  # log file
+        self.log_file_name = time.strftime("%Y-%m-%d-%H-%M") + '_program name_interfaceTest.log'  # log file
         self.backup_count = c.get('backup') if c and c.get('backup') else 5  # retain logs num
         # Log output level
         self.console_output_level = c.get('console_level') if c and c.get('console_level') else 'WARNING'
