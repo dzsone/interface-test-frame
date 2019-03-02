@@ -6,12 +6,12 @@ from comm.HTMLTestRunner import HTMLTestRunner
 
 
 if __name__ == '__main__':
-    discover = unittest.defaultTestLoader.discover(CASE_PATH, "test_*.py") #执行测试用例路径下的匹配脚本
+    discover = unittest.defaultTestLoader.discover(CASE_PATH, "btest_*.py") # run the test case file which in the path.
     logger.info('_*_*_*interface test start*_*_*_')
     nowtime = time.strftime("%Y-%m-%d-%H-%M")
     report = REPORT_PATH + '\\' + nowtime + '_report.html'
     log = LOG_PATH + '\\' + nowtime + '_.log'
-    with open(report, 'wb') as f:
+    with open(report, 'wb') as f:  # build the test report.
         runner = HTMLTestRunner(f, verbosity=2, title='interface report', description='description')
         runner.run(discover)
         f.close()
@@ -23,5 +23,5 @@ if __name__ == '__main__':
               password='123',
               path=[report, log]
               )
-    e.send()
+    e.send() # send the test mail with test report and test log.
   
