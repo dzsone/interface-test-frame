@@ -7,7 +7,7 @@ from comm.config import Config, DATA_PATH, CONFIG_FILE, LOG_PATH, REPORT_PATH
 
 class APPinterface(unittest.TestCase):
     c = Config().get('Http')
-    URL = c.get('turl')  # get test url
+    URL = c.get('turl')  # set test url
     port = c.get('port')
     host = str(URL) + ':' + str(port)  
 
@@ -27,7 +27,7 @@ class APPinterface(unittest.TestCase):
         rq = json.loads(r.text)
         logger.info(rq)
         try:
-            self.assertEqual(0, rq['status'])
+            self.assertEqual(0, rq['responseCode'])
             self.assertEqual(u'OK', rq['msg'])
             self.assertEqual(200, r.status_code)
             token = rq['data']['token']
